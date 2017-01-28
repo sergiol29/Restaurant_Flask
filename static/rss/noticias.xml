@@ -1,0 +1,864 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+<channel>
+  <title><![CDATA[Portada de Tecnología | EL PAÍS]]></title>
+  <link><![CDATA[http://tecnologia.elpais.com/rss/tecnologia/portada.xml]]></link>
+  <description><![CDATA[Portada de Tecnología | EL PAÍS]]></description>
+  <lastBuildDate>Sat, 28 Jan 2017 12:48:55 +0100</lastBuildDate>
+  <pubDate>Sat, 28 Jan 2017 12:48:55 +0100</pubDate>
+  <language>es</language>
+  <copyright><![CDATA[Copyright 2017, Ediciones EL PAÍS]]></copyright>
+  <ttl>5</ttl>
+  <image>
+      <url>http://ep00.epimg.net/iconos/v1.x/v1.0/logos/cabecera_portada.png</url>
+      <title>Logotipo de EL PAÍS</title>
+      <link>http://elpais.com/</link>
+  </image>
+  <item>
+    <title><![CDATA[Células fotovoltaicas bajo la piel para hacer funcionar implantes médicos]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/20/actualidad/1484924905_921221.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/20/actualidad/1484924905_921221.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Nacho Palou, Microsiervos]]></dc:creator>
+    <description><![CDATA[La luz que atraviesa esta superficie permite que produzcan la corriente eléctrica necesaria para que ande un marcapasos]]></description>
+    <pubDate><![CDATA[Sat, 28 Jan 2017 12:47:28 +0100]]></pubDate>
+    <category><![CDATA[Investigación científica]]></category>
+    <category><![CDATA[Enfermedades]]></category>
+    <category><![CDATA[Medicina]]></category>
+    <category><![CDATA[Salud]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p class="Cuerpo">Un estudio realizado por investigadores dirigidos por Lukas Bereuter, del hospital universitario de Bern, en Suiza, ha concluido que implantar células fotovoltaicas bajo la piel de los pacientes sería un método viable para mantener en funcionamiento implantes médicos como los marcapasos o estimuladores cerebrales.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/20/actualidad/1484924905_921221.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/20/actualidad/1484924905_921221_1484925355_miniatura_normal.jpg" length="19284" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/20/actualidad/1484924905_921221_1484925355_noticia_normal.jpg" length="57844" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/20/actualidad/1484924905_921221_1484925355_noticia_grande.jpg" length="57844" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485603465-6d8152c0efd4c28679f5c508533a4741]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Así es el Galaxy S8: el ‘misil’ que marca el retorno más esperado de Samsung]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/27/actualidad/1485520009_409143.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/27/actualidad/1485520009_409143.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Mendiola Zuriarrain]]></dc:creator>
+    <description><![CDATA[Una filtración asegura que llegará el 29 de marzo con una pantalla 'infinita' y un asistente virtual más capaz que el de sus rivales]]></description>
+    <pubDate><![CDATA[Fri, 27 Jan 2017 15:59:06 +0100]]></pubDate>
+    <category><![CDATA[Galaxy Note 7]]></category>
+    <category><![CDATA[Samsung Galaxy]]></category>
+    <category><![CDATA[Samsung Electronics]]></category>
+    <category><![CDATA[Smartphone]]></category>
+    <category><![CDATA[Gadgets]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Samsung parece dispuesto a demostrar que puede resurgir de sus cenizas, y que pese al complejo <a href="http://tecnologia.elpais.com/tecnologia/2017/01/23/actualidad/1485146076_294197.html">fin de 2016</a> le sobran fuerzas para recordar a todos que es uno de los grandes en el mundo de la telefonía. <a href="http://economia.elpais.com/economia/2017/01/24/actualidad/1485228072_891879.html">Tras el batacazo del Galaxy Note 7</a>, el mercado está conteniendo el aliento hasta saber cómo intentará el fabricante coreano solucionar el asunto, y parece que podría haber dado la clave con un Galaxy S8 <a href="http://www.theverge.com/circuitbreaker/2017/1/26/14401246/samsung-galaxy-s-8-phone-photo-rumor-leak">filtrado antes de tiempo</a>.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/27/actualidad/1485520009_409143.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/27/actualidad/1485520009_409143_1485520265_noticia_normal.jpg" length="47307" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485522085-0e237383a3b787ad7b849994a45dc73b]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[“Realmente, a nadie le importa una mierda su privacidad”]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/27/actualidad/1482858558_357902.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/27/actualidad/1482858558_357902.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Ángel Luis Sucasas Fernández]]></dc:creator>
+    <description><![CDATA[Klaus Obermaier, creador de obras interactivas y coreógrafo, cree que la cultura no está respondiendo como debe al nuevo mundo.]]></description>
+    <pubDate><![CDATA[Thu, 26 Jan 2017 17:03:40 +0100]]></pubDate>
+    <category><![CDATA[El País Tecnología]]></category>
+    <category><![CDATA[Ciberactivismo]]></category>
+    <category><![CDATA[Activismo]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Arte]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <content:encoded><![CDATA[<p>Este artista austriaco nacido en Lindst (1955) lleva desde la década de los noventa innovando en el arte interactivo con su fusión de danza y tecnología. Imparte clases magistrales en varias instituciones, como la Universidad IUAV de Venecia o el IED de Madrid.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/12/27/actualidad/1482858558_357902.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/27/actualidad/1482858558_357902_1482859016_miniatura_normal.jpg" length="24124" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/27/actualidad/1482858558_357902_1482859016_noticia_normal.jpg" length="127047" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485446567-a8bee59f8606285144c4e9d802578047]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Facebook compite con Snapchat incorporando contenido efímero]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485423262_746412.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485423262_746412.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Mendiola Zuriarrain]]></dc:creator>
+    <description><![CDATA[La red social integra una parte de Stories de Instagram con fotos que desaparecen]]></description>
+    <pubDate><![CDATA[Thu, 26 Jan 2017 16:59:23 +0100]]></pubDate>
+    <category><![CDATA[SnapChat]]></category>
+    <category><![CDATA[Instagram]]></category>
+    <category><![CDATA[Apps]]></category>
+    <category><![CDATA[Facebook]]></category>
+    <category><![CDATA[Aplicaciones informáticas]]></category>
+    <category><![CDATA[Redes sociales]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Mark Zuckerberg, el creador de Facebook, sabe que tiene un fabuloso enemigo en Snapchat. Por ello incorporó <a href="http://tecnologia.elpais.com/tecnologia/2016/08/02/actualidad/1470150330_890678.html">Stories</a>, un clon de la funcionalidad de <em>historias efímeras</em> de esta red social, la favorita de los <em>millenials</em>. El éxito fue arrollador y alzancó los <a href="https://techcrunch.com/2016/10/06/instagram-stories-has-100-million-daily-active-users-after-just-2-months/">100 millones de usuarios en apenas dos meses</a>. Ayer se hizo público que, además, Facebook incorporará dicha funcionalidad en las aplicaciones móviles y de hecho, ya ha comenzado <a href="http://uk.businessinsider.com/facebook-testing-snapchat-clone-called-facebook-stories-2017-1?op=1&r=US&IR=T">las pruebas piloto</a>.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485423262_746412.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/26/actualidad/1485423262_746412_1485423787_miniatura_normal.jpg" length="12045" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/26/actualidad/1485423262_746412_1485423787_noticia_normal.jpg" length="34725" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485424098-2bc086af5e75285a51804afd76cc10d1]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El cuaderno con páginas reutilizables que se conecta con la nube]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485364491_761387.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485364491_761387.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[M. Victoria S. Nadal]]></dc:creator>
+    <description><![CDATA[Una aplicación escanea las hojas y las almacena directamente en Dropbox, Google Drive o Evernote]]></description>
+    <pubDate><![CDATA[Fri, 27 Jan 2017 10:02:54 +0100]]></pubDate>
+    <category><![CDATA[Kickstarter]]></category>
+    <category><![CDATA[Evernote]]></category>
+    <category><![CDATA[Google Drive]]></category>
+    <category><![CDATA[Dropbox]]></category>
+    <category><![CDATA[Computación en nube]]></category>
+    <category><![CDATA[Crowdfunding]]></category>
+    <category><![CDATA[Aplicaciones informáticas]]></category>
+    <category><![CDATA[Google]]></category>
+    <category><![CDATA[Financiación]]></category>
+    <category><![CDATA[Alphabet]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Finanzas]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p dir="ltr">Para tener un cuaderno inteligente no hacen falta microchips ni sistemas operativos. Lo han demostrado Joseph Lemay y Jake Epstein de Boston, Estados Unidos, creadores de Everlast Notebook, una libreta que permite borrar la tinta al frotar con un paño húmedo y subir la información a la nube escaneando la página con una aplicación móvil. <a href="https://www.kickstarter.com/projects/642311833/everlast?lang=es">En la web de crowdfunding Kickstarter,</a> donde buscan financiación para comercializar su creación, han recaudado 1,7 millones de euros, un 7.000% más de su objetivo inicial, que eran solo 24.500 euros. </p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485364491_761387.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/25/actualidad/1485364491_761387_1485364691_miniatura_normal.jpg" length="17410" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/25/actualidad/1485364491_761387_1485364691_noticia_normal.jpg" length="50283" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485507754-065c919ac173aec2fd27f20602f51886]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Nintendo Switch: los cinco juegos clave para 2017]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485337934_621936.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485337934_621936.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[El País]]></dc:creator>
+    <description><![CDATA[La compañía japonesa pondrá a la venta su nueva consola híbrida el próximo 3 de marzo]]></description>
+    <pubDate><![CDATA[Thu, 26 Jan 2017 17:58:27 +0100]]></pubDate>
+    <category><![CDATA[Nintendo Switch]]></category>
+    <category><![CDATA[The Legend of Zelda]]></category>
+    <category><![CDATA[Super Mario Bros]]></category>
+    <category><![CDATA[Nintendo]]></category>
+    <category><![CDATA[Videojuegos aventura]]></category>
+    <category><![CDATA[Videojuegos acción]]></category>
+    <category><![CDATA[Videojuegos plataformas]]></category>
+    <category><![CDATA[Videoconsolas]]></category>
+    <category><![CDATA[Hardware]]></category>
+    <category><![CDATA[Videojuegos]]></category>
+    <category><![CDATA[Ocio]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Industria]]></category>
+    <content:encoded><![CDATA[<p>El año 2017 será uno de los más trascendentes de la década para la industria de los videojuegos. Nintendo, la compañía creadora de <em>Mario</em>, <em>Zelda</em> y <em>Donkey Kong</em>, pondrá a la venta su nueva consola el próximo 3 de marzo revolucionando por enésima vez la forma de jugar en casa… y en la calle. <a href="http://elpais.com/tag/nintendo_switch/a">Nintendo Switch</a> es una consola híbrida, que podemos utilizar como portátil gracias a su enorme pantalla y sus mandos –que se pueden usar junto a la tablet o por separado- o en casa si acoplamos la consola sobre un dock.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485337934_621936.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/25/actualidad/1485337934_621936_1485338025_miniatura_normal.jpg" length="11169" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/25/actualidad/1485337934_621936_1485338025_noticia_normal.jpg" length="27860" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485363370-01a7c749282a33dadf9e9ce5b9794a34]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Así funcionan los algoritmos que ordenan la información en internet]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/22/actualidad/1482426628_688992.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/22/actualidad/1482426628_688992.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[The Conversation, El País]]></dc:creator>
+    <description><![CDATA[Ninguna educación moderna está completa sin entender cómo los algoritmos de los sitios web combinan, procesan y sintetizan la información antes de presentárnosla]]></description>
+    <pubDate><![CDATA[Thu, 26 Jan 2017 05:52:05 +0100]]></pubDate>
+    <category><![CDATA[Google]]></category>
+    <category><![CDATA[Amazon]]></category>
+    <category><![CDATA[Buscadores]]></category>
+    <category><![CDATA[Alphabet]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Cuando buscamos información en Google, cuando comparamos diferentes objetos en Amazon o cuando nos tomamos un descanso para ver una película o una serie usamos lo que podríamos llamar los tres principios básicos de la época de Internet: puntuar, clasificar y recomendar.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/12/22/actualidad/1482426628_688992.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/22/actualidad/1482426628_688992_1482427464_miniatura_normal.jpg" length="17260" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/22/actualidad/1482426628_688992_1482427464_noticia_normal.jpg" length="48914" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/22/actualidad/1482426628_688992_1482427464_noticia_grande.jpg" length="53368" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485406106-a2e7a6d8c56e82c4d4870f953f1ecb76]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Hugo Barra ficha por Facebook para hacerse cargo de Oculus]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485417845_415331.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485417845_415331.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Rosa Jiménez Cano]]></dc:creator>
+    <description><![CDATA[El exdirectivo de Xiaomi y Google será el responsable del programa de realidad virtual de la compañía]]></description>
+    <pubDate><![CDATA[Thu, 26 Jan 2017 19:03:44 +0100]]></pubDate>
+    <category><![CDATA[Silicon Valley]]></category>
+    <category><![CDATA[Oculus VR]]></category>
+    <category><![CDATA[San Francisco]]></category>
+    <category><![CDATA[Facebook]]></category>
+    <category><![CDATA[California]]></category>
+    <category><![CDATA[Redes sociales]]></category>
+    <category><![CDATA[Estados Unidos]]></category>
+    <category><![CDATA[Norteamérica]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[América]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <content:encoded><![CDATA[<p>El pasado 22 de enero, Hugo Barra, uno de los directivos más relevantes en Silicon Valley, anunció su vuelta. Tras tres años y medio en Xiaomi, donde ha sido su embajador internacional, acaba <a href="https://twitter.com/hbarra/status/824471636451610625">de desvelar que ficha por Facebook para dirigir Oculus, su división de realidad virtual</a>.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485417845_415331.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/26/actualidad/1485417845_415331_1485421569_miniatura_normal.jpg" length="11034" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/26/actualidad/1485417845_415331_1485421569_noticia_normal.jpg" length="41686" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485421841-e51aa0be7f6e95c76e6e43fcfe6d65bf]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[¿Usas patrón de desbloqueo en el móvil? Pues ten cuidado, han descubierto cómo descifrarlo]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485336951_413986.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485336951_413986.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Mendiola Zuriarrain]]></dc:creator>
+    <description><![CDATA[Investigadores del Reino Unido y China idean un algoritmo con el que se desbloquean el 95% de los móviles Android en menos de cinco intentos]]></description>
+    <pubDate><![CDATA[Wed, 25 Jan 2017 13:17:17 +0100]]></pubDate>
+    <category><![CDATA[Android]]></category>
+    <category><![CDATA[Móviles]]></category>
+    <category><![CDATA[Sistemas operativos]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Que es imperiosamente necesario proteger el contenido de nuestros móviles es algo que ya a casi nadie se le escapa: fotografías, agenda de contactos, correos electrónicos, cuenta corriente… Quien logre franquear la pantalla de un <em>smartphone</em> ajeno puede tener acceso a prácticamente toda la <em>vida</em> de su propietario. El problema al que se enfrentan los usuarios de los móviles es el de la conveniencia: desbloquear el móvil con un código puede ser muy engorroso cuando lo hacemos muchas veces al cabo del día, y en este sentido Google propuso para los móviles de su plataforma el popular patrón de desbloqueo.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/25/actualidad/1485336951_413986.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/25/actualidad/1485336951_413986_1485337505_miniatura_normal.jpg" length="18356" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/25/actualidad/1485336951_413986_1485337505_noticia_normal.jpg" length="48220" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485346612-2465779bf92fd0bdf71327a8a023ec05]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Catorce ‘apps’ que pueden ayudar a tratar la ansiedad y la depresión]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/11/actualidad/1484137256_613682.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/11/actualidad/1484137256_613682.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Marya G. Nieto]]></dc:creator>
+    <description><![CDATA[Un estudio muestra que los usuarios de estas aplicaciones gratuitas mostraron reducciones importantes de los síntomas de ambas patologías]]></description>
+    <pubDate><![CDATA[Wed, 25 Jan 2017 07:34:43 +0100]]></pubDate>
+    <category><![CDATA[Ansiedad]]></category>
+    <category><![CDATA[Depresión]]></category>
+    <category><![CDATA[Aplicaciones informáticas]]></category>
+    <category><![CDATA[Enfermedades mentales]]></category>
+    <category><![CDATA[Psicología]]></category>
+    <category><![CDATA[Enfermedades]]></category>
+    <category><![CDATA[Especialidades médicas]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Bienestar]]></category>
+    <category><![CDATA[Medicina]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Estilo vida]]></category>
+    <category><![CDATA[Salud]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p dir="ltr">Un equipo de científicos ha desarrollado un conjunto de 14 aplicaciones para ayudar a personas que sufren ansiedad y depresión. Para comprobar la utilidad de estas <em>apps</em>, los científicos también han elaborado un estudio con un centenar de participantes y los resultados, <a href="http://www.jmir.org/2017/1/e10/" target="_blank">publicados en la revista</a> <em>Journal of Medical Internet Research</em>, indican una reducción significativa de los síntomas de ansiedad y depresión en los participantes. El éxito de las aplicaciones, según los investigadores, se debe a que son muy fáciles de usar y están pensadas para utilizarse con frecuencia pero en periodos de tiempo cortos. Todas las aplicaciones están disponibles en inglés en la <em><a href="https://play.google.com/store/apps/details?id=edu.northwestern.cbits.intellicare.conductor&hl=es" target="_blank">Play Store</a></em> de Android de forma gratuita. El equipo está trabajando en el próximo lanzamiento de las aplicaciones para el sistema operativo iOS previsto para el mes que viene, mientras recauda fondos para ofrecerlas en otros idiomas, como el español.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/11/actualidad/1484137256_613682.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/11/actualidad/1484137256_613682_1484138531_miniatura_normal.jpg" length="15842" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/11/actualidad/1484137256_613682_1484138823_noticia_normal.jpg" length="47948" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/11/actualidad/1484137256_613682_1484138823_noticia_grande.jpg" length="63949" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485319780-31fa41df070ccd20c3bedd93e547271b]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Neymoji, una ‘app’ para expresar tus emociones como el astro del fútbol]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485411800_488688.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485411800_488688.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Rosa Jiménez Cano]]></dc:creator>
+    <description><![CDATA[Los emoticonos de Neymar se podrán usar en correo, mensajes de texto y redes sociales]]></description>
+    <pubDate><![CDATA[Thu, 26 Jan 2017 10:14:54 +0100]]></pubDate>
+    <category><![CDATA[Neymar]]></category>
+    <category><![CDATA[iOS]]></category>
+    <category><![CDATA[Android]]></category>
+    <category><![CDATA[Apple]]></category>
+    <category><![CDATA[Móviles]]></category>
+    <category><![CDATA[Sistemas operativos]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p dir="ltr">2016 fue el año de los emojis. Muchos se rieron cuando la gran novedad de la conferencia de desarrolladores de Apple fue la posibilidad de modificar, animar y enviar emoticonos adaptados desde el Apple Watch. Seis meses después, la fiebre no tiene freno. Android le ha seguido los pasos y cada vez son más las aplicaciones que permiten integrarlos.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/26/actualidad/1485411800_488688.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/26/actualidad/1485411800_488688_1485413471_miniatura_normal.jpg" length="14304" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/26/actualidad/1485411800_488688_1485413471_noticia_normal.jpg" length="41972" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/26/actualidad/1485411800_488688_1485413471_noticia_grande.jpg" length="41972" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485416765-c83a2347b6f4a459af58aeec33e8b470]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Software para averiguar la esperanza de vida de los enfermos del corazón]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/19/actualidad/1484845010_544850.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/19/actualidad/1484845010_544850.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Mendiola Zuriarrain]]></dc:creator>
+    <description><![CDATA[Un sistema basado en inteligencia artificial ayuda a los médicos a saber de antemano qué pacientes son críticos]]></description>
+    <pubDate><![CDATA[Tue, 24 Jan 2017 09:38:31 +0100]]></pubDate>
+    <category><![CDATA[Inteligencia artificial]]></category>
+    <category><![CDATA[Computación]]></category>
+    <category><![CDATA[Enfermedades]]></category>
+    <category><![CDATA[Medicina]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Salud]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>¿Qué es la medicina sino un gran cúmulo de datos e información? Cada visita al médico se resume en múltiples preguntas con las que el doctor va perfilando las posibles causas de la afección y su posterior tratamiento. Pues bien, si este volumen de datos e información es masivo, la precisión del tratamiento y el posible impacto de la enfermedad en el paciente se dispara. Lo que sucede es que la capacidad humana es limitada y en esta correlación en la que más información equivale a un diagnóstico más preciso, el hombre pierde frente a la máquina.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/19/actualidad/1484845010_544850.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/19/actualidad/1484845010_544850_1484845800_miniatura_normal.jpg" length="16985" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/19/actualidad/1484845010_544850_1484845800_noticia_normal.jpg" length="68853" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/19/actualidad/1484845010_544850_1484845800_noticia_grande.jpg" length="69799" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485247048-58bd6773b788520d4d22dd8e6bc8350a]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[¿Existen los nativos digitales?]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485248153_300100.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485248153_300100.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Borja Adsuara Varela]]></dc:creator>
+    <description><![CDATA[El hecho de que un niño nacido a partir de los 90 se haya familiarizado con internet no quiere decir que sepa cómo funciona ni que conozca sus derechos y deberes]]></description>
+    <pubDate><![CDATA[Wed, 25 Jan 2017 18:56:23 +0100]]></pubDate>
+    <category><![CDATA[Niños]]></category>
+    <category><![CDATA[Infancia]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <content:encoded><![CDATA[<p>Acaba de publicarse un libro, en el que tengo el honor de participar, titulado <em><a href="https://www.amazon.es/Los-Nativos-Digitales-Existen-colecci%C3%B3n/dp/8423426599">Los nativos digitales no existen</a></em>, que defiende la idea de que “es un error considerar a estas generaciones -los nacidos a partir de mediados de los noventa- competentes en el uso de la tecnología por el mero hecho de haber nacido con ella”. Porque, “¿acaso por nacer en una familia que hable castellano dominamos el idioma?”.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485248153_300100.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/24/actualidad/1485248153_300100_1485248971_miniatura_normal.jpg" length="15378" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/24/actualidad/1485248153_300100_1485248971_noticia_normal.jpg" length="51138" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485366803-91b0817a2aa3c3b970c3e758f85b3138]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Blockchain, ¿una salida para el periodismo?]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485265236_145828.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485265236_145828.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Joana Oliveira]]></dc:creator>
+    <description><![CDATA[Expertos debaten en Madrid sobre el uso de esa tecnología en el futuro de los medios de comunicación]]></description>
+    <pubDate><![CDATA[Tue, 24 Jan 2017 17:05:39 +0100]]></pubDate>
+    <category><![CDATA[Bitcoin]]></category>
+    <category><![CDATA[Moneda electrónica]]></category>
+    <category><![CDATA[Moneda]]></category>
+    <category><![CDATA[Pagos online]]></category>
+    <category><![CDATA[Comercio electrónico]]></category>
+    <category><![CDATA[Dinero]]></category>
+    <category><![CDATA[Periodismo]]></category>
+    <category><![CDATA[Medios de pago]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Comercio]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Medios comunicación]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Finanzas]]></category>
+    <category><![CDATA[Comunicación]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Garantizar la <a href="http://elpais.com/tag/libertad_prensa/a">libertad de prensa</a>, permitir que los lectores remuneren directamente al periodista o plantear un nuevo modelo publicitario en un mundo en el que Facebook y Google concentran el 80% de la publicidad online y en que las redes sociales mueven cinco mil millones de transacciones comerciales al día. Estos son algunos de los cambios que la <a href="http://tecnologia.elpais.com/tecnologia/2016/05/02/actualidad/1462174998_210251.html">tecnología</a> <em><a href="http://tecnologia.elpais.com/tecnologia/2016/05/02/actualidad/1462174998_210251.html">blockchain</a> —</em>un sistema de consenso distribuido que puede registrar las transacciones de dos partes de manera verificable y permanente— puede <a href="http://economia.elpais.com/economia/2016/10/21/actualidad/1477060430_939631.html">aportar al oficio periodístico y a los medios de comunicación</a>, según los expertos que se han reunido este lunes en el I Encuentro Internacional sobre <em>Blockchain</em> y Periodismo, realizado en Madrid. </p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485265236_145828.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/24/actualidad/1485265236_145828_1485265584_miniatura_normal.jpg" length="16419" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/24/actualidad/1485265236_145828_1485265583_noticia_normal.jpg" length="50813" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485273215-527cec15752fbfafaecd8f69db267ac8]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[WhatsApp permite ‘enviar’ mensajes aunque no tengas conexión a internet]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485252740_897863.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485252740_897863.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Mendiola Zuriarrain]]></dc:creator>
+    <description><![CDATA[Los mensajes quedarán en la bandeja de salida a la espera de recuperar la conexión]]></description>
+    <pubDate><![CDATA[Tue, 24 Jan 2017 13:58:29 +0100]]></pubDate>
+    <category><![CDATA[WhatsApp]]></category>
+    <category><![CDATA[Mensajería multimedia]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Se trataba de una de las funciones más demandadas por los usuarios: poder utilizar <a href="http://elpais.com/tag/whatsapp/a">WhatsApp</a> sin necesidad de contar con acceso a internet. Hasta la fecha, lo primero que hacía la aplicación de mensajería era comprobar la existencia del acceso a la red, y si esta no estaba disponible, la herramienta tan solo permitía leer los mensajes recibidos pero no se podía hacer mucho más. Una nueva actualización acaba de incorporar por sorpresa la posibilidad de utilizar WhatsApp aunque no se tenga conexión a internet, multiplicando las posibilidades de uso de la popular app de chat.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/24/actualidad/1485252740_897863.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/24/actualidad/1485252740_897863_1485253038_miniatura_normal.jpg" length="12446" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/24/actualidad/1485252740_897863_1485253038_noticia_normal.jpg" length="66274" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485253233-6ec1d945708867575b248b73f4016504]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Los antibióticos del futuro se esconden en el fondo del mar]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/10/14/actualidad/1476397267_426922.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/10/14/actualidad/1476397267_426922.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[]]></dc:creator>
+    <description><![CDATA[]]></description>
+    <pubDate><![CDATA[Wed, 23 Nov 2016 08:50:50 +0100]]></pubDate>
+    <comments><![CDATA[http://eskup.elpais.com/C1476397267-9e977ee3c16e125743b31253c220314f]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Raspberry Pi, el ordenador mini que se conecta a todo]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/10/26/actualidad/1477493275_912765.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/10/26/actualidad/1477493275_912765.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[]]></dc:creator>
+    <description><![CDATA[]]></description>
+    <pubDate><![CDATA[Wed, 23 Nov 2016 08:53:25 +0100]]></pubDate>
+    <comments><![CDATA[http://eskup.elpais.com/C1477493275-f3cd3e08f8de044b8c1c70ea93df3e4a]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Con este móvil no necesitarás cámara de fotos]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/16/actualidad/1484558554_300420.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/16/actualidad/1484558554_300420.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Laura Pajuelo, Javier Palazón]]></dc:creator>
+    <description><![CDATA[Sony sigue apostando por 'smartphones' centrados en su capacidad fotográfica. Xperia XZ es su mejor creación hasta la fecha]]></description>
+    <pubDate><![CDATA[Wed, 25 Jan 2017 13:14:46 +0100]]></pubDate>
+    <category><![CDATA[Sony Xperia]]></category>
+    <category><![CDATA[Smartphone]]></category>
+    <category><![CDATA[Sony Mobile]]></category>
+    <category><![CDATA[Gadgets]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Cuando Sony inauguró el pasado año su nueva familia de <em>smartphones</em> de la mano del <a href="http://tecnologia.elpais.com/tecnologia/2016/06/06/actualidad/1465202778_415175.html">Xperia X</a>, se centró en tres aspectos: el diseño, la cámara fotográfica y la autonomía. Prácticamente un año después, esta premisa se sigue manteniendo intacta terminal tras terminal, y Sony Xperia XZ no es una excepción. Por características (y precio) se sitúa en la cúspide de su actual catálogo y, de hecho, se trata de su teléfono más completo hasta ahora.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/16/actualidad/1484558554_300420.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/16/actualidad/1484558554_300420_1484559499_miniatura_normal.jpg" length="12500" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/16/actualidad/1484558554_300420_1484559499_noticia_normal.jpg" length="31962" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/16/actualidad/1484558554_300420_1484559499_noticia_grande.jpg" length="31962" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485186974-fbc9447ac5fe785fdf8aae93d341ecfa]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Dos cámaras ven más que una]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/elpais/2016/12/23/album/1482499693_947334.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/elpais/2016/12/23/album/1482499693_947334.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Laura Pajuelo, Javier Palazón]]></dc:creator>
+    <description><![CDATA[Los 'smartphones' han comenzado a incluir varias cámaras con el objetivo de mejorar la calidad de las imágenes, permitir escenas panorámicas o jugar con la realidad aumentada]]></description>
+    <pubDate><![CDATA[Fri, 30 Dec 2016 13:47:49 +0100]]></pubDate>
+    <category><![CDATA[Cámaras fotográficas]]></category>
+    <category><![CDATA[iPhone]]></category>
+    <category><![CDATA[Sector óptico]]></category>
+    <category><![CDATA[Smartphone]]></category>
+    <category><![CDATA[Gadgets]]></category>
+    <category><![CDATA[Apple]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/23/album/1482499693_947334_1482500083_miniatura_normal.jpg" length="9866" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/23/album/1482499693_947334_1482500083_noticia_normal.jpg" length="41984" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/23/album/1482499693_947334_1482500083_noticia_grande.jpg" length="41984" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1482499693-b93158c64abebcdc237c5ee5ce529728]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[El regalo ‘tech’ perfecto]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/elpais/2016/12/02/album/1480684274_840107.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/elpais/2016/12/02/album/1480684274_840107.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Laura Pajuelo, Javier Palazón]]></dc:creator>
+    <description><![CDATA[Si te gusta regalar tecnología en Navidad, te lo ponemos muy fácil con esta selección de originales dispositivos]]></description>
+    <pubDate><![CDATA[Sun, 11 Dec 2016 11:56:30 +0100]]></pubDate>
+    <category><![CDATA[Gadgets]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/02/album/1480684274_840107_1480685671_miniatura_normal.jpg" length="11507" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/02/album/1480684274_840107_1480685671_noticia_normal.jpg" length="39352" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/02/album/1480684274_840107_1480685671_noticia_grande.jpg" length="39352" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1480684274-ffa57c21206858f3c169fa74da928daf]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Una conexión wifi con un consumo de batería 10.000 veces menor]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/16/actualidad/1481890737_285751.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/16/actualidad/1481890737_285751.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Nacho Palou, Microsiervos]]></dc:creator>
+    <description><![CDATA[El wifi pasivo permite conexiones de datos sin apenas consumir energía de las baterías de móviles y 'wearables']]></description>
+    <pubDate><![CDATA[Tue, 20 Dec 2016 17:44:26 +0100]]></pubDate>
+    <category><![CDATA[Wi-Fi]]></category>
+    <category><![CDATA[Tecnología inalámbrica]]></category>
+    <category><![CDATA[Redes inalámbricas]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p class="Cuerpo">La conexión wifi es una de las funciones del móvil que más batería consume, hasta el 60%. El wifi del móvil, además de que se utiliza casi continuamente, está constantemente enviando señales de radio para encontrar redes disponibles. Las busca incluso cuando en su entorno no hay redes wifi abiertas o conocidas con las que conectarse.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/12/16/actualidad/1481890737_285751.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/16/actualidad/1481890737_285751_1481891373_miniatura_normal.jpg" length="14474" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/16/actualidad/1481890737_285751_1481891372_noticia_normal.jpg" length="44212" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/16/actualidad/1481890737_285751_1481891372_noticia_grande.jpg" length="44239" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1482150808-3f451b99f5174b3564bc2977dcb8b257]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Meizu PRO6, una familia numerosa para asaltar la gama alta]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/07/actualidad/1481114358_078912.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/07/actualidad/1481114358_078912.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Zigor Aldama]]></dc:creator>
+    <description><![CDATA[Comparamos los tres terminales que la marca china ha presentado este año para competir con los buques insignia del resto de compañías. Son muy sólidos, pero excesivamente similares]]></description>
+    <pubDate><![CDATA[Fri, 9 Dec 2016 10:34:39 +0100]]></pubDate>
+    <category><![CDATA[Meizu]]></category>
+    <category><![CDATA[Smartphone]]></category>
+    <category><![CDATA[Gadgets]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Algo raro le ha pasado a <a href="http://www.mymeizu.es">Meizu</a> este año. No solo porque casi ha presentado tantos móviles que en el resto de sus 13 años de vida juntos, también porque se ha lanzado a la conquista del segmento más exigente con tres terminales que cuesta distinguir entre sí. De hecho, quien busque con la vista las siete diferencias entre el Meizu PRO6, el PRO6s, y el PRO6 Plus lo va a tener difícil. Sobre todo entre los dos primeros, porque no las hay. La única marca que permite diferenciarlos es la S que, copiando la fórmula de Apple, decora la tapa trasera. El Plus <a href="http://tecnologia.elpais.com/tecnologia/2016/11/30/actualidad/1480507725_510203.html">que presentó hace unos días en Pekín</a> se distingue más fácilmente gracias a su mayor tamaño, pero mantiene las líneas maestras de un diseño que, todo hay que decirlo, resulta tan sencillo como atractivo.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/12/07/actualidad/1481114358_078912.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/07/actualidad/1481114358_078912_1481115314_miniatura_normal.jpg" length="24738" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/07/actualidad/1481114358_078912_1481115314_noticia_normal.jpg" length="82540" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/07/actualidad/1481114358_078912_1481115314_noticia_grande.jpg" length="82540" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1481275901-df8a3223446d505db7d55c78d788dda0]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Loewe se pasa al negro puro]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/11/14/actualidad/1479124685_938423.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/11/14/actualidad/1479124685_938423.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Laura Pajuelo, Javier Palazón]]></dc:creator>
+    <description><![CDATA[El primer televisor OLED de la firma alemana apuesta por tecnologías propias para mejorar la imagen, un interfaz sencillo y un diseño de lujo]]></description>
+    <pubDate><![CDATA[Mon, 14 Nov 2016 17:15:13 +0100]]></pubDate>
+    <category><![CDATA[Smart TV]]></category>
+    <category><![CDATA[Loewe]]></category>
+    <category><![CDATA[Televisión digital]]></category>
+    <category><![CDATA[Gadgets]]></category>
+    <category><![CDATA[Televisión]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Medios comunicación]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Comunicación]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Mucho se ha hablado de las bondades de la tecnología OLED aplicada a los televisores: un amplio rango de colores, un aumento del brillo con un consumo energético reducido y un contraste que permite mostrar negros realmente negros. Sólo <a href="http://tecnologia.elpais.com/tecnologia/2015/11/23/actualidad/1448294344_014390.html">LG</a> había apostado firmemente por esta tecnología hasta la fecha. Ahora se suma a esta tendencia Loewe, la firma alemana especializada en sistemas de imagen y sonido de gama alta, gracias a un acuerdo con la firma coreana. El resultado es Loewe Bild 7, disponible en 55 y 65 pulgadas.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/11/14/actualidad/1479124685_938423.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/11/14/actualidad/1479124685_938423_1479125607_miniatura_normal.jpg" length="10622" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/11/14/actualidad/1479124685_938423_1479125607_noticia_normal.jpg" length="39171" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/11/14/actualidad/1479124685_938423_1479125607_noticia_grande.jpg" length="48590" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1481364255-d3a76d9e0d80d937f869c8c15eddbd59]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Telemedicina es tu futuro]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/10/17/actualidad/1476718681_756129.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/10/17/actualidad/1476718681_756129.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[]]></dc:creator>
+    <description><![CDATA[La tercera edad exige de un cuidado especial para mantener su calidad de vida. Tanto si se padece una enfermedad crónica como si se está saludable, una vigilancia constante es la mejor receta para evitar problemas.]]></description>
+    <pubDate><![CDATA[Fri, 9 Dec 2016 14:24:35 +0100]]></pubDate>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/10/17/actualidad/1476718681_756129_1481289835_portadilla_normal.jpg" length="25589" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1476718681-a1c3cede175abd930e7702ec2a426bfa]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[The Last of Us: Part 2, Todo lo que sabemos]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/04/19/portada_new/1461092944_845866.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/04/19/portada_new/1461092944_845866.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Nacho Ortiz]]></dc:creator>
+    <description><![CDATA[Repasamos toda la información que se sabe acerca de la esperada secuela]]></description>
+    <pubDate><![CDATA[Tue, 29 Nov 2016 10:06:38 +0100]]></pubDate>
+    <category><![CDATA[Videojuegos]]></category>
+    <category><![CDATA[Ocio]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Estilo vida]]></category>
+    <category><![CDATA[Industria]]></category>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/04/19/portada_new/1461092944_845866_1481618214_miniatura_normal.jpg" length="8180" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1461092944-8a118ee2223db188f9eaeb93e51146a1]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Guía de compras: los mejores juegos de PS4 en 2016]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/04/21/actualidad/1461231923_748766.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/04/21/actualidad/1461231923_748766.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Nacho Ortiz]]></dc:creator>
+    <description><![CDATA[12 videojuegos imprescindibles de entre lo más destacado de la consola de Sony este año.]]></description>
+    <pubDate><![CDATA[Tue, 29 Nov 2016 10:08:21 +0100]]></pubDate>
+    <category><![CDATA[Videojuegos]]></category>
+    <category><![CDATA[Ocio]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Estilo vida]]></category>
+    <category><![CDATA[Industria]]></category>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/04/21/actualidad/1461231923_748766_1481618128_miniatura_normal.jpg" length="24668" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/04/21/actualidad/1461231923_748766_1465471247_noticia_normal.jpg" length="9530" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/04/21/actualidad/1461231923_748766_1461745536_portadilla_grande.jpg" length="104786" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1461231923-6d24c4b3d1d32ecd882049d92283b97c]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[¿Necesitas retocar una foto desde el móvil antes de compartirla? Prueba con estas ‘apps’]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/16/actualidad/1484569665_497878.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/16/actualidad/1484569665_497878.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Ángel Plaza López]]></dc:creator>
+    <description><![CDATA[Hay varias herramientas ‘todo en uno’ desde las que es posible captar, editar y enviar imágenes de una manera rápida y sencilla]]></description>
+    <pubDate><![CDATA[Fri, 20 Jan 2017 12:26:10 +0100]]></pubDate>
+    <category><![CDATA[Fotografía digital]]></category>
+    <category><![CDATA[WhatsApp]]></category>
+    <category><![CDATA[Apps]]></category>
+    <category><![CDATA[Fotografía]]></category>
+    <category><![CDATA[Mensajería multimedia]]></category>
+    <category><![CDATA[Aplicaciones informáticas]]></category>
+    <category><![CDATA[Artes plásticas]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Arte]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Cada día, a través de WhatsApp se comparten más de <a href="http://thenextweb.com/facebook/2016/02/02/whatsapp-now-has-1-billion-users-worldwide/">1.600 millones de fotos y 250 millones de vídeos</a>. Muchos de estos recursos son captados a través de la cámara integrada en la propia aplicación y que se envían tal cual, sin ningún tipo de edición. Sin embargo, en ocasiones el usuario necesita retocar las imágenes que acaba de tomar o cualquier otra almacenada en su móvil antes de enviarla, con el fin de corregir algún fallo o destacar aquello en lo que quiere que se fije el destinatario. En estos casos, es posible recurrir a diversas aplicaciones móviles disponibles tanto para iOS como para Android. Estas son algunas de ellas.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/16/actualidad/1484569665_497878.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/16/actualidad/1484569665_497878_1484570484_miniatura_normal.jpg" length="17070" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/16/actualidad/1484569665_497878_1484570484_noticia_normal.jpg" length="26446" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1484911547-77e25cf6755dd220a8d918677ca2d8e1]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Seis ‘apps’ que mejorarán tu experiencia como viajero]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/18/actualidad/1484757030_859355.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/18/actualidad/1484757030_859355.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Miguel Ángel Corcobado]]></dc:creator>
+    <description><![CDATA[El concurso The AppTourism Awards 2017 premia a las aplicaciones móviles más útiles para el turista en colaboración con Fitur]]></description>
+    <pubDate><![CDATA[Thu, 19 Jan 2017 17:18:03 +0100]]></pubDate>
+    <category><![CDATA[Fitur]]></category>
+    <category><![CDATA[Apps]]></category>
+    <category><![CDATA[Ferias turismo]]></category>
+    <category><![CDATA[Aplicaciones informáticas]]></category>
+    <category><![CDATA[Fomento turismo]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Viajes]]></category>
+    <category><![CDATA[Ferias]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Ofertas turísticas]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Turismo]]></category>
+    <category><![CDATA[Comercio]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <content:encoded><![CDATA[<p>El turismo es un motor económico de gran calibre para España y precisamente estos días se celebra <a title="Fitur" href="http://www.ifema.es/fitur_01/">Fitur 2017</a>, la feria de turismo más importante del país y donde más de 9.000 empresas nacionales y extranjeras apuestan por convencer con sus ofertas a los viajeros. Según la Organización Mundial de Turismo 1.235 millones de turistas salieron de vacaciones fuera de sus fronteras en 2016, lo que supone una oportunidad para el sector que prevé que aumente en 2017.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/18/actualidad/1484757030_859355.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/18/actualidad/1484757030_859355_1484757863_miniatura_normal.jpg" length="17834" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/18/actualidad/1484757030_859355_1484757863_noticia_normal.jpg" length="62079" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/18/actualidad/1484757030_859355_1484757863_noticia_grande.jpg" length="62079" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1484842638-ce2b0a2559162590b072b9c6fcf887b3]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Apps y webs para cumplir el propósito de aprender idiomas, pero de forma divertida]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/11/actualidad/1484150302_467027.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/11/actualidad/1484150302_467027.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Miguel Ángel Corcobado]]></dc:creator>
+    <description><![CDATA[La tecnología nos puede ayudar a aprender o mejorar un idioma con un esfuerzo mínimo]]></description>
+    <pubDate><![CDATA[Tue, 24 Jan 2017 13:22:56 +0100]]></pubDate>
+    <category><![CDATA[Aprendizaje]]></category>
+    <category><![CDATA[Aplicaciones informáticas]]></category>
+    <category><![CDATA[Pedagogía]]></category>
+    <category><![CDATA[Idiomas]]></category>
+    <category><![CDATA[Lengua]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Cultura]]></category>
+    <category><![CDATA[Educación]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>El cambio de año siempre es una oportunidad para ‘resetear’ nuestra mente e intentar culminar al fin todas esas cosas que nos habíamos propuesto anteriormente. Una de ellas suele ser el aprendizaje de idiomas. Algo que siempre tenemos presente, pero nunca encontramos tiempo para ello. Afortunadamente la tecnología nos puede ayudar a aprender o mejorar un idioma con un esfuerzo mínimo e incluso divertido a través de nuestro ordenador y smartphone.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/11/actualidad/1484150302_467027.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/11/actualidad/1484150302_467027_1484151378_miniatura_normal.jpg" length="11976" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/11/actualidad/1484150302_467027_1484151378_noticia_normal.jpg" length="33900" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/11/actualidad/1484150302_467027_1484151378_noticia_grande.jpg" length="33900" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485002825-5e1216f7f8cbf09848dd0f9061338b1a]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Guía para evitar el dolor de cabeza de elegir televisión]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/elpais/2016/12/21/fotorrelato/1482342986_445015.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/elpais/2016/12/21/fotorrelato/1482342986_445015.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Mendiola Zuriarrain]]></dc:creator>
+    <description><![CDATA[Guerra de siglas en las tiendas de electrónica: de la tecnología LCD a la OLED, pasando por los modelos IPS y las pantallas LED]]></description>
+    <pubDate><![CDATA[Thu, 12 Jan 2017 16:42:58 +0100]]></pubDate>
+    <category><![CDATA[El País Tecnología]]></category>
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/21/fotorrelato/1482342986_445015_1482850531_miniatura_normal.jpg" length="21962" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/elpais/imagenes/2016/12/21/fotorrelato/1482342986_445015_1482850530_noticia_normal.jpg" length="63857" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1484235771-c7f22af4ee16421cc09c245d9a6eaf14]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Los coches autotripulados y los humanos]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/07/26/actualidad/1469526672_442462.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/07/26/actualidad/1469526672_442462.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[El País]]></dc:creator>
+    <description><![CDATA[El primer accidente con víctimas mortales de un coche vehículo conducido por software disparó todas las alarmas]]></description>
+    <pubDate><![CDATA[Thu, 5 Jan 2017 11:45:03 +0100]]></pubDate>
+    <category><![CDATA[Tesla Motors]]></category>
+    <category><![CDATA[Coches eléctricos]]></category>
+    <category><![CDATA[Accidentes]]></category>
+    <category><![CDATA[Coches]]></category>
+    <category><![CDATA[Vehículos]]></category>
+    <category><![CDATA[Fabricantes automóviles]]></category>
+    <category><![CDATA[Sucesos]]></category>
+    <category><![CDATA[Automoción]]></category>
+    <category><![CDATA[Transporte]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[España]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>El pasado año se produjo el <a href="http://tecnologia.elpais.com/tecnologia/2016/07/01/actualidad/1467337732_779288.html">primer accidente con víctimas mortales de un coche autotripulado</a>, es decir, completamente conducido por software. Ironías del destino, el fallecido era uno de los más <a href="https://www.youtube.com/user/NexuJosh/videos">fervientes defensores</a> de este tipo de tecnologías.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/07/26/actualidad/1469526672_442462.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/07/26/actualidad/1469526672_442462_1469528730_miniatura_normal.jpg" length="15938" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/07/26/actualidad/1469526672_442462_1469528730_noticia_normal.jpg" length="53635" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/07/26/actualidad/1469526672_442462_1469528730_noticia_grande.jpg" length="53635" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1483613183-78cfb28bc3a2e4ca87f567362e18740e]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Los ‘planos’ del software]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/11/22/actualidad/1479834209_075442.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/11/22/actualidad/1479834209_075442.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[El País]]></dc:creator>
+    <description><![CDATA[Los informáticos usan ya modelos del software a la hora de comprender, diseñar, analizar y mantener una aplicación]]></description>
+    <pubDate><![CDATA[Tue, 29 Nov 2016 12:07:40 +0100]]></pubDate>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>¿Te comprarías una casa nueva en construcción sin haber visto los planos? Seguramente la respuesta es no. De hecho, seguro que al vendedor le exiges que te muestre los planos a escala de lo que va a ser tu nueva vivienda, más allá de sus explicaciones verbales, del panfleto publicitario que se muestra en la exposición, o de la hoja de calidades técnicas de los materiales que prometen usar. Los planos te van a servir para que puedas hacerte la idea de su distribución, poder medir si te van a caber los muebles, o si el aseo es demasiado pequeño.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/11/22/actualidad/1479834209_075442.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/11/22/actualidad/1479834209_075442_1479835457_miniatura_normal.jpg" length="26817" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/11/22/actualidad/1479834209_075442_1479835457_noticia_normal.jpg" length="115556" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/11/22/actualidad/1479834209_075442_1479835457_noticia_grande.jpg" length="87746" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1480417623-5265798f0d43bb536ed6ca4a47aa1a26]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[“Las máquinas harán trabajos totalmente de humanos”]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/20/actualidad/1484928391_087409.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/20/actualidad/1484928391_087409.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Beatriz Guillén]]></dc:creator>
+    <description><![CDATA[Barzilay enseña a los sistemas con inteligencia artificial a reconocer y procesar nuestro lenguaje para que sean capaces de leer y escribir]]></description>
+    <pubDate><![CDATA[Sun, 22 Jan 2017 23:01:57 +0100]]></pubDate>
+    <category><![CDATA[Cáncer mama]]></category>
+    <category><![CDATA[MIT]]></category>
+    <category><![CDATA[Cáncer mujeres]]></category>
+    <category><![CDATA[Institutos investigación]]></category>
+    <category><![CDATA[Inteligencia artificial]]></category>
+    <category><![CDATA[Cáncer]]></category>
+    <category><![CDATA[Lenguajes programación]]></category>
+    <category><![CDATA[Centros investigación]]></category>
+    <category><![CDATA[Computación]]></category>
+    <category><![CDATA[Investigación científica]]></category>
+    <category><![CDATA[Mujeres]]></category>
+    <category><![CDATA[Enfermedades]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Medicina]]></category>
+    <category><![CDATA[Salud]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Sociedad]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Regina Barzilay (1970, Chisináu, Moldavia) es la mujer que <a href="http://elpais.com/tag/inteligencia_artificial/a/9">enseña a las máquinas a aprender</a>. Especializada en reconocimiento y procesado de lenguaje natural, lleva casi dos décadas educando a los ordenadores en nuestro 'idioma'. "Intento que una máquina coja un texto, extraiga su información y lo haga útil para los humanos. Pero las máquinas tienen que aprender el lenguaje, porque ellas por sí mismas no saben leer inglés", explica en Madrid, a donde ha venido como jurado de los premios <a href="http://tecnologia.elpais.com/tecnologia/2017/01/17/actualidad/1484669623_079128.html">Fronteras del Conocimiento en Tecnologías de la Información y la Comunicación</a> de la Fundación BBVA. Barzilay ya se ha convertido en una referencia en su campo, la lingüística computacional. Actualmente es catedrática, investiga y enseña en uno de los centros más prestigiosos del mundo: el Instituto Tecnológico de Massachusetts (MIT), en Estados Unidos.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/20/actualidad/1484928391_087409.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/20/actualidad/1484928391_087409_1484928674_miniatura_normal.jpg" length="22592" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/20/actualidad/1484928391_087409_1484928674_noticia_normal.jpg" length="90571" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1485085291-1e89687e6f20c7a30b2b57e5717bb3bb]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Essential, el móvil de gama alta que marca el retorno del fundador de Android]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/18/actualidad/1484734576_202752.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2017/01/18/actualidad/1484734576_202752.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[José Mendiola Zuriarrain]]></dc:creator>
+    <description><![CDATA[Andy Rubin lanzará un 'smartphone' desarrollado por ex trabajadores de Apple y Google]]></description>
+    <pubDate><![CDATA[Fri, 20 Jan 2017 14:15:16 +0100]]></pubDate>
+    <category><![CDATA[Android]]></category>
+    <category><![CDATA[Google]]></category>
+    <category><![CDATA[Móviles]]></category>
+    <category><![CDATA[Apple]]></category>
+    <category><![CDATA[Buscadores]]></category>
+    <category><![CDATA[Alphabet]]></category>
+    <category><![CDATA[Telefonía móvil multimedia]]></category>
+    <category><![CDATA[Sistemas operativos]]></category>
+    <category><![CDATA[Telefonía móvil]]></category>
+    <category><![CDATA[Software]]></category>
+    <category><![CDATA[Internet]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Telefonía]]></category>
+    <category><![CDATA[Tecnologías movilidad]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Telecomunicaciones]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p>Un equipo muy reducido de ingenieros <em>pata negra</em> provenientes de Google y de Apple conforman Essential: un prometedor proyecto promovido por Andy Rubin, el padre de Android. Esta nueva aventura promete reinventar la telefonía móvil con un misterioso <em>smartphone</em> de gama alta del que apenas se conocen detalles, pero los que han visto el primer prototipo aseguran que su <em>hardware</em> supera al iPhone en algunos aspectos.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2017/01/18/actualidad/1484734576_202752.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/18/actualidad/1484734576_202752_1484735405_miniatura_normal.jpg" length="11573" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/18/actualidad/1484734576_202752_1484735404_noticia_normal.jpg" length="31850" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2017/01/18/actualidad/1484734576_202752_1484735404_noticia_grande.jpg" length="36403" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1484918088-ca6c31a958e8c02604ce91b28f79e951]]></comments>
+  </item>
+  <item>
+    <title><![CDATA[Este perro artificial aspira a ser el robot de reparto perfecto]]></title>
+    <link><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/21/actualidad/1482317129_528620.html#?ref=rss&format=simple&link=link]]></link>
+    <guid isPermaLink="true"><![CDATA[http://tecnologia.elpais.com/tecnologia/2016/12/21/actualidad/1482317129_528620.html#?ref=rss&format=simple&link=guid]]></guid>
+    <dc:creator><![CDATA[Nacho Palou, Microsiervos]]></dc:creator>
+    <description><![CDATA[Su desarrollo se inició como parte de un proyecto militar cancelado. Ahora, el 'perro robot' deberá encontrar su sitio en la vida civil]]></description>
+    <pubDate><![CDATA[Thu, 12 Jan 2017 17:26:18 +0100]]></pubDate>
+    <category><![CDATA[Robótica]]></category>
+    <category><![CDATA[Mensajería]]></category>
+    <category><![CDATA[Empresas]]></category>
+    <category><![CDATA[Informática]]></category>
+    <category><![CDATA[Economía]]></category>
+    <category><![CDATA[Tecnología]]></category>
+    <category><![CDATA[Industria]]></category>
+    <category><![CDATA[Comunicaciones]]></category>
+    <category><![CDATA[Ciencia]]></category>
+    <content:encoded><![CDATA[<p class="Cuerpo">El perro robot de nombre <em>Spot</em> imita el aspecto y los movimientos de un perro: camina y corre por terreno irregular, sube y baja escaleras, se agacha para pasar por debajo de una mesa o salta si encuentra un obstáculo en el camino. Además, gracias a un brazo articulado situado sobre el lomo, <em>Spot</em> puede coger objetos, transportarlos y entregarlos. Puede incluso colocar los platos sucios en el lavavajillas.</p><p><a href="http://tecnologia.elpais.com/tecnologia/2016/12/21/actualidad/1482317129_528620.html#?ref=rss&format=simple&link=seguir">Seguir leyendo</a>.</p>]]></content:encoded>
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/21/actualidad/1482317129_528620_1482317925_miniatura_normal.jpg" length="17283" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/21/actualidad/1482317129_528620_1482317925_noticia_normal.jpg" length="52093" type="image/jpeg"  />
+    <enclosure url="http://ep00.epimg.net/tecnologia/imagenes/2016/12/21/actualidad/1482317129_528620_1482317925_noticia_grande.jpg" length="52093" type="image/jpeg"  />
+    <comments><![CDATA[http://eskup.elpais.com/C1484822431-1e47514f52ff6cbd1197686a37b43783]]></comments>
+  </item>
+</channel>
+</rss>
