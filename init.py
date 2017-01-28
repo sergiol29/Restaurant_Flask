@@ -290,5 +290,5 @@ def estadisticas():
     return render_template('estadisticas.html', dataMoreVoted=dataMoreVoted, dataCountCuisine=dataCountCuisine)
 
 if __name__ == "__main__":
-    app.debug = False
-    app.run(host='*')
+    app.debug = True
+    app.run(host='0.0.0.0')
