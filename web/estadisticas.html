@@ -1,0 +1,135 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Estadísticas - Habitat{% endblock %}
+{% block description %}Descripción Estadísticas - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+
+<!-- Main Column -->
+<div class="col-md-12">
+  <h2>
+      Estadísticas
+  </h2>
+  <div id="container_mas_votado"></div>
+</div>
+<div class="col-md-12 margin-top-60">
+  <div id="container_tipo_restaurante"></div>
+</div>
+<!-- End Main Column -->
+  {% endblock %}
+
+  <!-- Javascript Google Maps -->
+  {% block javascript %}
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/highcharts-3d.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+  <script>
+  /* GRAFICA RESTAURANTES MAS VOTADOS */
+  $(function () {
+    Highcharts.chart('container_mas_votado', {
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Restaurantes más votados'
+        },
+        subtitle: {
+            text: 'Según categoría'
+        },
+        xAxis: {
+            categories: [
+                {% for i in range(0, dataMoreVoted|length) %}
+                  '{{ dataMoreVoted[i][0] }}',
+                {% endfor %}
+            ],
+            crosshair: true
+        },
+        yAxis: {
+            min: 0,
+            title: {
+                text: 'Número de votos'
+            }
+        },
+        tooltip: {
+            headerFormat: '<span style="font-size:10px">{point.key}</span><table>',
+            pointFormat: '<tr><td style="color:{series.color};padding:0">{series.name}: </td>' +
+                '<td style="padding:0"><b>{point.y:.0f} votos</b></td></tr>',
+            footerFormat: '</table>',
+            shared: true,
+            useHTML: true
+        },
+        plotOptions: {
+            column: {
+                pointPadding: 0.2,
+                borderWidth: 2
+            }
+        },
+        series: [{
+            name: 'Categoria A',
+            data: [ {% for i in range(0, dataMoreVoted|length) %} {{ dataMoreVoted[i][1] }}, {% endfor %}]
+
+        }, {
+            name: 'Categoria B',
+            data: [ {% for i in range(0, dataMoreVoted|length) %} {{ dataMoreVoted[i][2] }}, {% endfor %}]
+
+        }, {
+            name: 'Categoria C',
+            data: [ {% for i in range(0, dataMoreVoted|length) %} {{ dataMoreVoted[i][3] }}, {% endfor %}]
+
+        }]
+    });
+  });
+  </script>
+
+  <script>
+  $(function () {
+      // Build the chart
+      Highcharts.chart('container_tipo_restaurante', {
+          chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false,
+            type: 'pie'
+          },
+          title: {
+            text: 'Número de restaurantes totales'
+          },
+          subtitle: {
+              text: 'Según tipo de cocina'
+          },
+          tooltip: {
+            pointFormat: '{series.name}: <b>{point.y:.0f}</b>'
+          },
+          plotOptions: {
+            pie: {
+              allowPointSelect: true,
+              cursor: 'pointer',
+              dataLabels: {
+                enabled: false
+              },
+                showInLegend: true
+            }
+          },
+          series: [{
+              name: 'Total',
+              colorByPoint: true,
+              data: [
+                {% for i in range(-1, dataCountCuisine|length-1) %}
+                    {% if i % 2 != 0: %}
+                      {
+                        name: '{{ dataCountCuisine[i+1] }}',
+                        y: {{ dataCountCuisine[i+2] }}
+                      },
+                    {% endif %}
+                {% endfor %}
+
+              ]
+          }]
+      });
+  });
+  </script>
+  {% endblock %}

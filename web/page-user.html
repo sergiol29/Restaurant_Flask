@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Perfil {{ user['nombre'] }} - Habitat{% endblock %}
+{% block description %}Descripción Perfil {{ user['nombre'] }} - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+  <!-- Main Text -->
+  <div class="col-md-6">
+      <h2>Bienvenido a tu perfil </br> <strong>{{ user['nombre'] }}</strong></h2>
+      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
+          lobortis nisl ut aliquip ex ea commodo consequat.</p>
+      <p>Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit
+          augue duis dolore te feugait nulla facilisi. Cras non sem sem, at eleifend mi. Nam liber tempor cum soluta nobis eleifend option congue nihil imperdiet doming id quod mazim placerat facer possim assum. Curabitur eget nisl
+          a risus.</p>
+  </div>
+  <!-- End Main Text -->
+  <div class="col-md-6">
+      <form class="signup-page" method="post" action="modificar_usuario">
+          <label>Nombre Completo
+              <span class="color-red">*</span>
+          </label>
+          <input class="form-control margin-bottom-20" id="name" name="name" type="text" value="{{ user['nombre'] }}" required>
+          <label>Email</label>
+          <input class="form-control margin-bottom-20" id="email" name="email" readonly="true" type="email" value="{{ user['email'] }}">
+          <label>Contraseña
+              <span class="color-red">*</span>
+          </label>
+          <input class="form-control margin-bottom-20" id="passw" name="passw" type="password" value="{{ user['password'] }}" required>
+          <hr>
+          <div class="row">
+              <div class="col-lg-12 text-right">
+                  <button class="btn btn-primary" type="submit">Modificar datos</button>
+              </div>
+          </div>
+      </form>
+  </div>
+  {% endblock %}

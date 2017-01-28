@@ -1,0 +1,296 @@
+<!-- === BEGIN HEADER === -->
+<!DOCTYPE html>
+<!--[if IE 8]> <html lang="en" class="ie8"> <![endif]-->
+<!--[if IE 9]> <html lang="en" class="ie9"> <![endif]-->
+<!--[if !IE]><!-->
+<html lang="es">
+    <!--<![endif]-->
+    <head>
+				<!-- BLOQUE HEAD -->
+				{% block head %}
+				<title>{% block title %} {% endblock %}</title>
+				<meta name="description" content="{% block description %} {% endblock %}">
+				<meta name="author" content="{% block author %} {% endblock %}">
+ 				{% endblock %}
+
+        <!-- Meta -->
+        <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+        <!-- Favicon -->
+        <link href="favicon.ico" rel="shortcut icon">
+        <!-- Bootstrap Core CSS -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.css') }}" rel="stylesheet">
+        <!-- Template CSS -->
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/animate.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/font-awesome.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/nexus.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/responsive.css') }}" rel="stylesheet">
+        <link rel="stylesheet" href="{{ url_for('static', filename='css/custom.css') }}" rel="stylesheet">
+        <!-- Google Fonts-->
+        <link href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,300" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div id="body-bg">
+            <div id="menuPersonalizate">
+              <table class="tableIcon">
+                <tr>
+                  <td><img src="{{ url_for('static', filename='img/contrast.png') }}" alt="Logo" id="contrast"/></td>
+                </tr>
+                <tr>
+                  <td><img src="{{ url_for('static', filename='img/more.png') }}" alt="Logo" id="more"/></td>
+                </tr>
+                <tr>
+                  <td><img src="{{ url_for('static', filename='img/less.png') }}" alt="Logo" id="less"/></td>
+                </tr>
+                <tr>
+                  <td><img src="{{ url_for('static', filename='img/refresh.png') }}" alt="Logo" id="refresh"/></td>
+                </tr>
+              </table>
+            </div>
+            <!-- Header -->
+            <div id="header">
+                <div class="container">
+                    <div class="row">
+                        <!-- Logo -->
+                        <div class="logo">
+                            <a href="/" title="">
+                                <img src="{{ url_for('static', filename='img/logo.png') }}" alt="Logo" />
+                            </a>
+                        </div>
+                        <!-- End Logo -->
+                    </div>
+                </div>
+            </div>
+            <!-- End Header -->
+
+            <!-- Top Menu -->
+            <div id="hornav" class="bottom-border-shadow">
+                <div class="container no-padding border-bottom">
+                    <div class="row">
+                        <div class="col-md-10 no-padding">
+                            <div class="visible-lg">
+                                <ul id="hornavmenu" class="nav navbar-nav">
+                                    <li>
+                                        <a href="/" class="fa-home">Inicio</a>
+                                    </li>
+                                    <li>
+																				<a href="sobre_nosotros" class="fa-th">Sobre nosotros</a>
+                                    </li>
+                                    <li>
+																				<a href="restaurantes" class="fa-font">Restaurantes</a>
+                                    </li>
+                                    <li>
+																				<a href="noticias" class="fa-font">Noticias</a>
+                                    </li>
+
+                                    {% if session['email'] %}
+                                    <li>
+                                        <a href="mi_perfil" class="fa-th ">Mi perfil</a>
+                                    </li>
+                                    <li>
+                                        <a href="lista_restaurantes" class="fa-th ">Admin</a>
+                                    </li>
+                                    {% endif %}
+
+                                    <li>
+                                        {% if session['email'] %}
+                                            <a href="cerrar_sesion" class="fa-comment ">Cerrar Sesión</a>
+                                        {% else %}
+                                            <a href="iniciar_sesion" class="fa-comment ">Iniciar sesión</a>
+                                        {% endif %}
+                                    </li>
+
+                                    <!--{% if not session['email'] %}
+                                    <li>
+                                        <a href="crear_cuenta" class="fa-th ">Registrarse</a>
+                                    </li>
+                                    {% endif %}-->
+                                </ul>
+                            </div>
+                        </div>
+                        <div class="col-md-2 no-padding">
+                            <ul class="social-icons pull-right">
+                                <li class="social-rss">
+                                    <a href="#" target="_blank" title="RSS"></a>
+                                </li>
+                                <li class="social-twitter">
+                                    <a href="#" target="_blank" title="Twitter"></a>
+                                </li>
+                                <!-- <li class="social-facebook">
+                                    <a href="#" target="_blank" title="Facebook"></a>
+                                </li>
+                                <li class="social-googleplus">
+                                    <a href="#" target="_blank" title="Google+"></a>
+                                </li> -->
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Top Menu -->
+            <!-- === END HEADER === -->
+
+
+            <!-- === BEGIN CONTENT === -->
+            <!-- BLOQUE SLIDER -->
+            {% block slider %}
+
+            {% endblock %}
+
+            <div id="content" class="bottom-border-shadow">
+                <div class="container background-white bottom-border">
+                    <div class="row margin-vert-30">
+												{% block content %}
+
+												{% endblock %}
+                    </div>
+                </div>
+            </div>
+            <!-- === END CONTENT === -->
+
+            <!-- === BEGIN FOOTER === -->
+            <!-- Footer -->
+            <div id="footer" class="background-grey">
+                <div class="container">
+                    <div class="row">
+                        <!-- Footer Menu -->
+                        <div id="footermenu" class="col-md-9">
+                            <ul class="list-unstyled list-inline">
+                                <li>
+                                    <a href="/">Inicio</a>
+                                </li>
+                                <li>
+                                    <a href="sobre_nosotros">Sobre nosotros</a>
+                                </li>
+                                <li>
+                                    <a href="restaurantes">Restaurantes</a>
+                                </li>
+                                <li>
+                                    <a href="noticias">Noticias</a>
+                                </li>
+                                <li>
+                                    <a href="twitter">Twitter</a>
+                                </li>
+                                <li>
+                                    <a href="twitter_estadisticas">Estadísticas Twitter</a>
+                                </li>
+                                <li>
+                                    <a href="estadisticas">Estadísticas</a>
+                                </li>
+
+                                {% if session['email'] %}
+                                <li>
+                                    <a href="mi_perfil">Mi perfil</a>
+                                </li>
+                                {% endif %}
+
+                                <li>
+                                    {% if session['email'] %}
+                                        <a href="cerrar_sesion">Cerrar Sesión</a>
+                                    {% else %}
+                                        <a href="iniciar_sesion">Iniciar sesión</a>
+                                    {% endif %}
+                                </li>
+
+                                {% if not session['email'] %}
+                                <li>
+                                    <a href="crear_cuenta">Registrarse</a>
+                                </li>
+                                {% endif %}
+
+                                {% if session['email'] %}
+                                <li>
+                                    Últimas visitas:
+
+                                </li>
+                                    {% for i in range(0,3) %}
+                                    <li>
+                                      <a href="{{ session['lastpage'][i] }}">{{ session['lastpage'][i] }}</a>
+                                    </li>
+                                    {% endfor %}
+                                {% endif %}
+                            </ul>
+                        </div>
+                        <!-- End Footer Menu -->
+                        <!-- Copyright -->
+                        <div id="copyright" class="col-md-3">
+                            <p class="pull-right">(c) 2016 DAI - Sergio López Ballesteros</p>
+                        </div>
+                        <!-- End Copyright -->
+                    </div>
+                </div>
+            </div>
+            <!-- End Footer -->
+            <!-- JS -->
+            <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.min.js') }}" type="text/javascript"></script>
+            <script type="text/javascript" src="{{ url_for('static', filename='js/bootstrap.min.js') }}" type="text/javascript"></script>
+            <script type="text/javascript" src="{{ url_for('static', filename='js/scripts.js') }}"></script>
+            <!-- Isotope - Portfolio Sorting -->
+            <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.isotope.js') }}" type="text/javascript"></script>
+            <!-- Mobile Menu - Slicknav -->
+            <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.slicknav.js') }}" type="text/javascript"></script>
+            <!-- Animate on Scroll-->
+            <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.visible.js') }}" charset="utf-8"></script>
+            <!-- Sticky Div -->
+            <script type="text/javascript" src="{{ url_for('static', filename='js/jquery.sticky.js') }}" charset="utf-8"></script>
+            <!-- Slimbox2-->
+            <script type="text/javascript" src="{{ url_for('static', filename='js/slimbox2.js') }}" charset="utf-8"></script>
+            <!-- Modernizr -->
+            <script src="{{ url_for('static', filename='js/modernizr.custom.js') }}" type="text/javascript"></script>
+            <!-- End JS -->
+
+            {% block javascript %} {% endblock %}
+
+            <script>
+              var tamP = 14;
+              /* Evento de pasar por encima del menu personalizado */
+              $("#menuPersonalizate").mouseover(function() {
+                $(this).animate({left: "0px"}, 300);
+              })
+              .mouseleave(function() {
+                $(this).animate({left: "-55px"}, 500);
+              });
+
+              /* Eventos click de botones personalizables */
+              $("#contrast").click(function() {
+                $("#body-bg").addClass("body-bg-personalizate");
+                $(".container").addClass("body-bg-personalizate");
+                $("#footer").addClass("body-bg-personalizate");
+                $("h2").addClass("body-bg-personalizate");
+                $("h3").addClass("body-bg-personalizate");
+                $("#menuPersonalizate").addClass("bg-white");
+              })
+
+              $("#refresh").click(function() {
+                tamP = 14;
+                $("#body-bg").removeClass("body-bg-personalizate");
+                $(".container").removeClass("body-bg-personalizate");
+                $("#footer").removeClass("body-bg-personalizate");
+                $("h2").removeClass("body-bg-personalizate");
+                $("h3").removeClass("body-bg-personalizate");
+                $("#menuPersonalizate").removeClass("bg-white");
+                $("p").css({"font-size": tamP});
+                $("li").css({"font-size": tamP});
+                $("h2").css({"font-size": 32});
+                $("h3").css({"font-size": 20});
+              })
+
+              $("#more").click(function() {
+                tamP = parseInt(tamP) + parseInt(1);
+                $("p").css({"font-size": tamP});
+                $("li").css({"font-size": tamP});
+                $("h2").css({"font-size": tamP + 5});
+                $("h3").css({"font-size": tamP + 3});
+              })
+
+              $("#less").click(function() {
+                tamP = parseInt(tamP) - parseInt(1);
+                $("p").css({"font-size": tamP});
+                $("li").css({"font-size": tamP});
+                $("h2").css({"font-size": tamP});
+                $("h3").css({"font-size": tamP});
+              })
+            </script>
+    </body>
+</html>
+<!-- === END FOOTER === -->

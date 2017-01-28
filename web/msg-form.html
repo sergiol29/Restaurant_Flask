@@ -1,0 +1,29 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Error {{msg}} - Habitat{% endblock %}
+{% block description %}Descripción {{msg}}- Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+<div class="col-md-12">
+    <div class="text-center">
+        {% if msg == "userNotFound" %}
+          <h2>Usuario no encontrado</h2>
+        {% else %}
+          <h3>Usuario registrado correctamente.</h3>
+        {% endif %}
+        <h4>Espere será redireccionado en 3 segundos</h4>
+    </div>
+</div>
+
+<script type="text/javascript">
+function redirection(){
+    window.location ="iniciar_sesion";
+}
+setTimeout ("redirection()", 3000); //tiempo en milisegundos
+</script>
+
+{% endblock %}

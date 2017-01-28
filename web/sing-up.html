@@ -1,0 +1,38 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Crear cuenta - Habitat{% endblock %}
+{% block description %}Descripción Crear cuenta - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+<!-- Register Box -->
+<div class="col-md-6 col-md-offset-3 col-sm-offset-3">
+    <form class="signup-page" method="post" action="registro">
+        <div class="signup-header">
+            <h2>Crea tu cuenta</h2>
+            <p>Estas registrado? <a href="iniciar_sesion">Inicia sesión</a>.</p>
+        </div>
+        <label>Nombre Completo
+            <span class="color-red">*</span>
+        </label>
+        <input class="form-control margin-bottom-20" id="name" name="name" type="text" required>
+        <label>Email
+            <span class="color-red">*</span>
+        </label>
+        <input class="form-control margin-bottom-20" id="email" name="email" type="email" required>
+        <label>Contraseña
+            <span class="color-red">*</span>
+        </label>
+        <input class="form-control margin-bottom-20" id="passw" name="passw" type="password" required>
+        <hr>
+        <div class="row">
+            <div class="col-lg-12 text-right">
+                <button class="btn btn-primary" type="submit">Crear cuenta</button>
+            </div>
+        </div>
+    </form>
+</div>
+<!-- End Register Box -->
+{% endblock %}

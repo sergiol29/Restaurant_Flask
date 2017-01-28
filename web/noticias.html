@@ -1,0 +1,91 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Noticias - Habitat{% endblock %}
+{% block description %}Descripción Noticias - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+<!-- Main Column -->
+<div class="col-md-9">
+    {% for i in range(0, 10) %}
+    <!-- Blog Post -->
+    <div class="blog-post padding-bottom-20">
+        <!-- Blog Item Header -->
+        <div class="blog-item-header">
+            <!-- Title -->
+            <h2>
+                <a href="{{ dataFeed.entries[i].link }}" target="_blank">
+                 {{ dataFeed.entries[i].title }}</a>
+            </h2>
+            <div class="clearfix"></div>
+            <!-- End Title -->
+        </div>
+        <!-- End Blog Item Header -->
+        <!-- Blog Item Details -->
+        <div class="blog-post-details">
+            <!-- Tags -->
+            {% for tag in dataFeed.entries[i].tags %}
+            <div class="blog-post-details-item blog-post-details-item-left blog-post-details-tags">
+                  <i class="fa fa-tags color-gray-light"></i>
+                  <a href="#">{{ tag.term }}</a>
+            </div>
+            {% endfor %}
+            <!-- End Tags -->
+        </div>
+        <!-- End Blog Item Details -->
+        <!-- Blog Item Body -->
+        <div class="blog">
+            <div class="clearfix"></div>
+            <div class="blog-post-body row margin-top-15">
+                <div class="col-md-5">
+                    <img class="margin-bottom-20" src="{{ dataFeed.entries[i].enclosures[1].href }}" alt="thumb1">
+                </div>
+                <div class="col-md-7">
+                    <p>{{ dataFeed.entries[i].summary }} ...</p>
+                    <p>Autor: {{ dataFeed.entries[i].author }}</p>
+
+                    <!-- Read More -->
+                    <a href="{{ dataFeed.entries[i].link }}" target="_blank" class="btn btn-primary">
+                        Leer más
+                        <i class="icon-chevron-right readmore-icon"></i>
+                    </a>
+                    <!-- End Read More -->
+                </div>
+            </div>
+        </div>
+        <!-- End Blog Item Body -->
+    </div>
+    <!-- End Blog Item -->
+
+    {% endfor %}
+
+    <!-- Pagination -->
+    <ul class="pagination">
+        <li>
+            <a href="#">&laquo;</a>
+        </li>
+        <li class="active">
+            <a href="#">1</a>
+        </li>
+        <li>
+            <a href="#">2</a>
+        </li>
+        <li>
+            <a href="#">3</a>
+        </li>
+        <li class="disabled">
+            <a href="#">4</a>
+        </li>
+        <li>
+            <a href="#">5</a>
+        </li>
+        <li>
+            <a href="#">&raquo;</a>
+        </li>
+    </ul>
+    <!-- End Pagination -->
+</div>
+<!-- End Main Column -->
+  {% endblock %}

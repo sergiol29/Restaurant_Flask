@@ -1,0 +1,126 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Restaurantes - Habitat{% endblock %}
+{% block description %}Descripción Restaurantes - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+<!-- Main Column -->
+<div class="col-md-9">
+    <!-- Blog Post -->
+    <div class="blog-post padding-bottom-20">
+        <!-- Blog Item Header -->
+        <div class="blog-item-header">
+            <!-- Title -->
+            <h2>
+                <a href="#">
+                 {{ dataRest['name'] }}</a>
+            </h2>
+            <div class="clearfix"></div>
+            <!-- End Title -->
+            <!-- Date -->
+            <div class="blog-post-date">
+                <a href="#">Valoración: {{ dataRest['grades'][0]['score'] }}</a>
+            </div>
+            <!-- End Date -->
+        </div>
+        <!-- End Blog Item Header -->
+        <!-- Blog Item Details -->
+        <div class="blog-post-details">
+            <!-- Author Name -->
+            <div class="blog-post-details-item blog-post-details-item-left">
+                <i class="fa fa-map-marker color-gray-light"></i>
+                <a href="#">{{ dataRest['address']['street'] }}, {{ dataRest['address']['building'] }}, {{ dataRest['address']['zipcode'] }}</a>
+            </div>
+            <!-- End Author Name -->
+            <!-- Tags -->
+            <div class="blog-post-details-item blog-post-details-item-left blog-post-details-tags">
+                <i class="fa fa-location-arrow color-gray-light"></i>
+                <a href="#">City: {{ dataRest['borough'] }}</a>
+            </div>
+            <!-- End Tags -->
+        </div>
+        <!-- End Blog Item Details -->
+        <!-- Blog Item Body -->
+        <div class="blog">
+            <div class="clearfix"></div>
+            <div class="blog-post-body row margin-top-15">
+                <div class="col-md-5">
+                    <img class="margin-bottom-20" src="{{ url_for('static', filename='img/restaurant/restaurant_4.jpg') }}" alt="thumb1">
+                </div>
+                <div class="col-md-7">
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
+                </div>
+            </div>
+
+            <!-- Google Maps -->
+            <h3 class="margin-top-15">Dirección:</h3>
+            <div id="map" class="margin-top-15"></div>
+            <!-- End Google Maps -->
+        </div>
+        <!-- End Blog Item Body -->
+    </div>
+    <!-- End Blog Item -->
+</div>
+<!-- End Main Column -->
+  {% endblock %}
+
+  <!-- Javascript Google Maps -->
+  {% block javascript %}
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAdkfw3eekl7j-WLMMwPVnwDEszbH2pHQQ&callback=initMap&signed_in=true" async defer></script>
+
+  <script>
+      /* Maps */
+      var map;
+
+      /* Function Init Map */
+      function initMap() {
+          /* Construct Maps and Options */
+          var map = new google.maps.Map(document.getElementById('map'), {
+            center: { lat: {{ dataRest['address']['coord'][1] }}, lng: {{ dataRest['address']['coord'][0] }} },
+            zoom: 18,
+            mapTypeId: google.maps.MapTypeId.ROADMAP
+          });
+
+          /* Construct a new Marker */
+          var marker = new google.maps.Marker({
+            map: map,
+            draggable: true,
+            animation: google.maps.Animation.BOUNCE,
+            // Define the place with a location, and a query string.
+            place: {
+              location: { lat: {{ dataRest['address']['coord'][1] }}, lng: {{ dataRest['address']['coord'][0] }} },
+              query: '{{ dataRest['name'] }}'
+            }
+          });
+
+          /* String information Restaurant */
+          var contentString = '<div id="content">'+
+          '<div id="siteNotice">'+
+          '</div>'+
+          '<h1 id="firstHeading" class="firstHeading">{{ dataRest['name'] }}</h1>'+
+          '<div id="bodyContent">'+
+          '<p><b>Dirección:</b> {{ dataRest['address']['street'] }}, {{ dataRest['address']['building'] }}, {{ dataRest['address']['zipcode'] }}</p>'+
+          '<p><b>Ciudad:</b> {{ dataRest['borough'] }}</p>'+
+          '</div>'+
+          '</div>';
+
+          // Construct a new InfoWindow.
+          var infoWindow = new google.maps.InfoWindow({
+            content: contentString
+          });
+
+          /* Construct a trafficLayer */
+          var trafficLayer = new google.maps.TrafficLayer();
+          trafficLayer.setMap(map);
+
+          // Opens the InfoWindow when marker is clicked.
+          marker.addListener('click', function() {
+            infoWindow.open(map, marker);
+          });
+      }
+  </script>
+  {% endblock %}

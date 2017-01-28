@@ -1,0 +1,99 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Restaurantes - Habitat{% endblock %}
+{% block description %}Descripción Restaurantes - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+<!-- Main Column -->
+<div class="col-md-9">
+    {% for i in range(0, 5) %}
+    <!-- Blog Post -->
+    <div class="blog-post padding-bottom-20">
+        <!-- Blog Item Header -->
+        <div class="blog-item-header">
+            <!-- Title -->
+            <h2>
+                <a href="info_restaurante?id={{dataRest[i]['restaurant_id']}}">
+                 {{ dataRest[i]['name'] }}</a>
+            </h2>
+            <div class="clearfix"></div>
+            <!-- End Title -->
+            <!-- Date -->
+            <div class="blog-post-date">
+                <a href="#">Valoración: {{ dataRest[i]['grades'][0]['score'] }}</a>
+            </div>
+            <!-- End Date -->
+        </div>
+        <!-- End Blog Item Header -->
+        <!-- Blog Item Details -->
+        <div class="blog-post-details">
+            <!-- Author Name -->
+            <div class="blog-post-details-item blog-post-details-item-left">
+                <i class="fa fa-map-marker color-gray-light"></i>
+                <a href="#">{{ dataRest[i]['address']['street'] }}, {{ dataRest[i]['address']['building'] }}, {{ dataRest[i]['address']['zipcode'] }}</a>
+            </div>
+            <!-- End Author Name -->
+            <!-- Tags -->
+            <div class="blog-post-details-item blog-post-details-item-left blog-post-details-tags">
+                <i class="fa fa-location-arrow color-gray-light"></i>
+                <a href="#">City: {{ dataRest[i]['borough'] }}</a>
+            </div>
+            <!-- End Tags -->
+        </div>
+        <!-- End Blog Item Details -->
+        <!-- Blog Item Body -->
+        <div class="blog">
+            <div class="clearfix"></div>
+            <div class="blog-post-body row margin-top-15">
+                <div class="col-md-5">
+                    <img class="margin-bottom-20" src="{{ url_for('static', filename='img/restaurant/restaurant_4.jpg') }}" alt="thumb1">
+                </div>
+                <div class="col-md-7">
+                    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.
+                        Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr.</p>
+                    <!-- Read More -->
+                    <a href="info_restaurante?id={{dataRest[i]['restaurant_id']}}" class="btn btn-primary">
+                        Leer más
+                        <i class="icon-chevron-right readmore-icon"></i>
+                    </a>
+                    <!-- End Read More -->
+                </div>
+            </div>
+        </div>
+        <!-- End Blog Item Body -->
+    </div>
+    <!-- End Blog Item -->
+
+    {% endfor %}
+
+    <!-- Pagination -->
+    <ul class="pagination">
+        <li>
+            <a href="#">&laquo;</a>
+        </li>
+        <li class="active">
+            <a href="#">1</a>
+        </li>
+        <li>
+            <a href="#">2</a>
+        </li>
+        <li>
+            <a href="#">3</a>
+        </li>
+        <li class="disabled">
+            <a href="#">4</a>
+        </li>
+        <li>
+            <a href="#">5</a>
+        </li>
+        <li>
+            <a href="#">&raquo;</a>
+        </li>
+    </ul>
+    <!-- End Pagination -->
+</div>
+<!-- End Main Column -->
+  {% endblock %}

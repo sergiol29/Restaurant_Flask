@@ -1,0 +1,54 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Twitter - Habitat{% endblock %}
+{% block description %}Descripción Twitter - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+
+<!-- Main Column -->
+<div class="col-md-12">
+    <!-- Title -->
+    <h2>
+        Qué esta ocurriendo en Granada
+    </h2>
+    <div class="clearfix"></div>
+    <!-- End Title -->
+
+    <!-- Column Left -->
+    <div class="col-md-6">
+      {% for i in range(0, 10) %}
+        {% if dataTweet[i]['entities']['media']: %}
+            <blockquote class="twitter-tweet">
+              <p lang="en" dir="ltr">{{ dataTweet[i].text }} </p>&mdash; {{ dataTweet[i].user.name }} (@{{dataTweet[i].user.screen_name}}) <a href="{{ dataTweet[i]["entities"]["media"][0]["expanded_url"] }}"> {{ dataTweet[i].created_at }}</a>
+            </blockquote>
+        {% else %}
+            <blockquote class="twitter-tweet" data-lang="es">
+              <p lang="es" dir="ltr">{{ dataTweet[i].text }} </p>&mdash; {{ dataTweet[i].user.name }} (@{{dataTweet[i].user.screen_name}}) <a href="https://twitter.com/{{dataTweet[i].user.screen_name}}/status/{{dataTweet[i].id}}"> {{ dataTweet[i].created_at }} </a>
+            </blockquote>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Column Right -->
+    <div class="col-md-6">
+      {% for i in range(11, 20) %}
+        {% if dataTweet[i]['entities']['media']: %}
+            <blockquote class="twitter-tweet">
+              <p lang="en" dir="ltr">{{ dataTweet[i].text }} </p>&mdash; {{ dataTweet[i].user.name }} (@{{dataTweet[i].user.screen_name}}) <a href="{{ dataTweet[i]["entities"]["media"][0]["expanded_url"] }}"> {{ dataTweet[i].created_at }}</a>
+            </blockquote>
+        {% else %}
+            <blockquote class="twitter-tweet" data-lang="es">
+              <p lang="es" dir="ltr">{{ dataTweet[i].text }} </p>&mdash; {{ dataTweet[i].user.name }} (@{{dataTweet[i].user.screen_name}}) <a href="https://twitter.com/{{dataTweet[i].user.screen_name}}/status/{{dataTweet[i].id}}"> {{ dataTweet[i].created_at }} </a>
+            </blockquote>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Script Twitter -->
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+<!-- End Main Column -->
+  {% endblock %}

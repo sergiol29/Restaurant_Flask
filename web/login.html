@@ -1,0 +1,36 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Iniciar sesión - Habitat{% endblock %}
+{% block description %}Descripción Iniciar sesión - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+<!-- Login Box -->
+<div class="col-md-6 col-md-offset-3 col-sm-offset-3">
+    <form class="login-page" method="post" action="comprobar_user">
+        <div class="login-header margin-bottom-30">
+            <h2>Iniciar sesión</h2>
+        </div>
+        <div class="input-group margin-bottom-20">
+            <span class="input-group-addon">
+                <i class="fa fa-user"></i>
+            </span>
+            <input placeholder="Email" id="email" name="email" class="form-control" type="email" required>
+        </div>
+        <div class="input-group margin-bottom-20">
+            <span class="input-group-addon">
+                <i class="fa fa-lock"></i>
+            </span>
+            <input placeholder="Contraseña" id="passw" name="passw" class="form-control" type="password" required>
+        </div>
+        <div class="row">
+            <div class="col-md-12">
+                <button class="btn btn-primary pull-right" type="submit">Iniciar sesión</button>
+            </div>
+        </div>
+    </form>
+</div>
+<!-- End Login Box -->
+{% endblock %}

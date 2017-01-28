@@ -1,0 +1,86 @@
+{% extends "layout.html" %}
+
+<!-- BLOQUE HEAD -->
+{% block title %}Estadísticas Twitter - Habitat{% endblock %}
+{% block description %}Descripción Estadísticas Twitter - Habitat{% endblock %}
+{% block author %}Sergio López Ballesteros{% endblock %}
+
+<!-- BLOQUE CONTENT -->
+{% block content %}
+
+<!-- Main Column -->
+<div class="col-md-12">
+  <h2>
+      Estadísticas Twitter
+  </h2>
+  <div id="container"></div>
+</div>
+<!-- End Main Column -->
+  {% endblock %}
+
+  <!-- Javascript Google Maps -->
+  {% block javascript %}
+  <script src="https://code.highcharts.com/highcharts.js"></script>
+  <script src="https://code.highcharts.com/highcharts-more.js"></script>
+  <script src="https://code.highcharts.com/modules/exporting.js"></script>
+
+  <script>
+  /* GRAFICA RESTAURANTES MAS VOTADOS */
+  $(function () {
+    // Create the chart
+    Highcharts.chart('container', {
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Volumen de tweets por #Hashtag'
+        },
+        subtitle: {
+            text: 'En este momento'
+        },
+        xAxis: {
+            type: 'category'
+        },
+        yAxis: {
+            title: {
+                text: 'Volumen total de tweets'
+            }
+
+        },
+        legend: {
+            enabled: false
+        },
+        plotOptions: {
+            series: {
+                borderWidth: 0,
+                dataLabels: {
+                    enabled: true,
+                    format: '{point.y:.0f}'
+                }
+            }
+        },
+
+        tooltip: {
+            headerFormat: '<span style="font-size:11px">{series.name}</span><br>',
+            pointFormat: '<span style="color:{point.color}">{point.name}</span>: <b>{point.y:.0f} tweets </b><br/>'
+        },
+
+        series: [{
+            name: '#hashtag',
+            colorByPoint: true,
+            data: [
+              {% for i in range(0, dataTweet[0].trends|length ) %}
+                  {% if dataTweet[0].trends[i].tweet_volume != None %}
+                      {
+                        name: '{{ dataTweet[0].trends[i].name }}',
+                        y: {{ dataTweet[0].trends[i].tweet_volume }},
+                        drilldown: '{{ dataTweet[0].trends[i].name }}'
+                      },
+                  {% endif %}
+              {% endfor %}
+            ]
+        }],
+    });
+});
+  </script>
+{% endblock %}
